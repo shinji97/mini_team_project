@@ -159,7 +159,7 @@ def detect_rtc(img):
 
 # 기능 구현 -----------------------------------------------------
 # (1) 학습 데이터 읽기
-rtc_pklfile = os.path.dirname(__file__) + "/best_rtc.pkl"
+rtc_pklfile = os.path.dirname(__file__) + "/best_rfc.pkl"
 best_rtc = joblib.load(rtc_pklfile)
 dtc_pklfile = os.path.dirname(__file__) + "/best_dtc.pkl"
 best_dtc = joblib.load(dtc_pklfile)
