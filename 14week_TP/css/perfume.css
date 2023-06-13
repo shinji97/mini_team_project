@@ -1,0 +1,135 @@
+#header{
+    height: 80px;
+    font-size: 20;
+    text-align: center;
+}
+
+#menu_bar{
+    height: 100px;
+    background-color: rgb(255, 250, 205);
+}
+
+.menu{
+    width: 20%;
+    height:100px;
+    text-align: center;
+    float: left;
+}
+
+.sns{
+    width: 50%;
+    hegiht:100px;
+    text-align: center;
+    float: left;                
+}
+
+#my_input{
+    height: 250px;
+    background-color: rgb(255, 250, 240);
+    text-align: center;
+}
+
+#brand{
+    width: 14%;
+    height: 200px;
+    background-color: rgb(255, 250, 205);
+    float: left;
+    text-align: center;
+}
+
+#gender{
+    width: 14%;
+    height: 200px;
+    background-color: rgb(255, 250, 240);
+    float: left;
+}
+
+#tpo{
+    width: 14%;
+    height: 200px;
+    background-color: rgb(255, 250, 205);
+    float: left;
+}
+
+#season{
+    width: 14%;
+    height: 200px;
+    background-color: rgb(255, 250, 240);
+    float: left;
+}        
+
+#level{
+    width: 14%;
+    height: 200px;
+    background-color: rgb(255, 250, 205);
+    float: left;
+}
+
+#feature{
+    width: 30%;
+    height: 200px;
+    background-color: rgb(255, 250, 240);
+    float: left;
+}
+
+#feature_one{
+    width: 33%;
+    float: left;
+}
+
+#feature_two{
+    width: 33%;
+    float: left;
+}
+
+#feature_three{
+    width: 33%;
+    float: left;
+}
+
+#predict_all{
+    width: 100%;
+    height: 100%;               
+}
+
+#first_predict{
+    width: 60%;
+    float: left;
+}
+
+#other_predict{
+    width: 40%;
+    float: left;
+}
+
+#blank{
+    height: 20px;
+}
+
+#predict_img{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+#first_data{
+    width: 50%;
+    height: 100%;
+    float:left;
+}
+
+
+.buttonContainer {
+    width: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
+

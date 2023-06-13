@@ -1,0 +1,23 @@
+#header{
+    height: 80px;
+    font-size: 20;
+    text-align: center;
+}
+
+#menu_bar{
+    height: 100px;
+    background-color: rgb(255, 250, 205);
+}
+
+.menu{
+    width: 20%;
+    height:100px;
+    text-align: center;
+    float: left;
+}
+.sns{
+    width: 50%;
+    hegiht:100px;
+    text-align: center;
+    float: left;                
+}
